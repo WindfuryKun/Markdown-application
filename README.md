@@ -31,6 +31,8 @@ gitee：https://gitee.com/rock654/markdown-application
 
 项目演示地址：https://www.bilibili.com/video/BV1JUyvBkEJK/?spm_id_from=333.337.top_right_bar_window_history.content.click&vd_source=9d552df2a3f833dd578a0d16edc18778
 
+项目演示地址：https://www.bilibili.com/video/BV1JUyvBkEJK/?spm_id_from=333.337.top_right_bar_window_history.content.click&vd_source=9d552df2a3f833dd578a0d16edc18778
+
 ---
 
 ## Introduction
@@ -58,4 +60,8 @@ Project address: https://github.com/WindfuryKun/Markdown-application
 
 Project address 2: https://gitee.com/rock654/markdown-application
 
+<<<<<<< HEAD
 Project demonstration address: https://www.bilibili.com/video/BV1JUyvBkEJK/?spm_id_from=333.337.top_right_bar_window_history.content.click&vd_source=9d552df2a3f833dd578a0d16edc18778
+=======
+Project demonstration address: https://www.bilibili.com/video/BV1JUyvBkEJK/?spm_id_from=333.337.top_right_bar_window_history.content.click&vd_source=9d552df2a3f833dd578a0d16edc18778
+>>>>>>> 5750249ca985a86f744761f3f615b3410be849ce

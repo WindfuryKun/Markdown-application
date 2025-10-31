@@ -15,9 +15,19 @@
 - 日常记录
 - 学习和借鉴软件开发
 
-项目地址：https://github.com/WindfuryKun/Markdown-application
+## 应用例子
 
-项目地址2：https://gitee.com/rock654/markdown-application
+- 学习通的更新日志是用Markdown制作的
+![学习通的更新日志是使用Markdown形式编写的](<Screenshot 2025-10-31 at 23-51-33 💡2025年暑期课程平台更新日志.png>)
+
+- deepseek的自述文档是使用Markdown形式编写的
+![deepseek的自述文档是使用Markdown形式编写的](image.png)
+
+## 🌱项目源码
+
+github：https://github.com/WindfuryKun/Markdown-application
+
+gitee：https://gitee.com/rock654/markdown-application
 
 ---
 

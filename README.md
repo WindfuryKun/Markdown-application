@@ -1,21 +1,21 @@
-## 介绍
+## 📃简介
 
 此markdown编辑器是一个基于Android平台的应用，提供编辑和Markdown预览功能，以及支持Markdown文件操作。
 
-## 特点
+## 🌟特点
 
 - 轻量化
 - 易上手
 - 界面简洁
 - 可二次开发
   
-## 使用场景
+## 🧩使用场景
 
 - 技术文档编写
 - 日常记录
 - 学习和借鉴软件开发
 
-## 应用例子
+## 🏷️应用例子
 
 - 学习通的更新日志是使用Markdown形式编写的
 ![学习通的更新日志是使用Markdown形式编写的](<Screenshot 2025-10-31 at 23-51-33 💡2025年暑期课程平台更新日志.png>)
@@ -31,33 +31,48 @@ gitee：https://gitee.com/rock654/markdown-application
 
 项目演示地址：https://www.bilibili.com/video/BV1JUyvBkEJK/?spm_id_from=333.337.top_right_bar_window_history.content.click&vd_source=9d552df2a3f833dd578a0d16edc18778
 
-项目演示地址：https://www.bilibili.com/video/BV1JUyvBkEJK/?spm_id_from=333.337.top_right_bar_window_history.content.click&vd_source=9d552df2a3f833dd578a0d16edc18778
+<br>
+<br>
+<br>
 
 ---
 
-## Introduction
+<br>
+<br>
+<br>
+
+## 📃Introduction
 
 This Markdown editor is an Android application that provides editing and Markdown preview functions, as well as support for Markdown file operations.
 
-## Features
+## 🌟Features
 
 - Lightweight
 - Easy to use
-
 - Simple interface
-
 - Customizable
 
-## Use Cases
+## 🧩Use Cases
 
 - Technical documentation writing
 
-- Daily note-taking
+- Daily record keeping
 
 - Learning and referencing software development
 
-Project address: https://github.com/WindfuryKun/Markdown-application
+## 🏷️Application Examples
 
-Project address 2: https://gitee.com/rock654/markdown-application
+- The Xuexitong update log is written in Markdown format.
+![The Xuexitong update log is written in Markdown format](<Screenshot 2025-10-31 at 23-51-33 💡2025年暑期课程平台更新日志.png>)
 
-Project demonstration address: https://www.bilibili.com/video/BV1JUyvBkEJK/?spm_id_from=333.337.top_right_bar_window_history.content.click&vd_source=9d552df2a3f833dd578a0d16edc18778
+- The Deepseek readme is written in Markdown format.
+
+![The Deepseek readme is written in Markdown format](image.png)
+
+## 🌱Project Source Code
+
+GitHub: https://github.com/WindfuryKun/Markdown-application
+
+Gitee: https://gitee.com/rock654/markdown-application
+
+Project Demo: https://www.bilibili.com/video/BV1JUyvBkEJK/?spm_id_from=333.337.top_right_bar_window_history.content.click&vd_source=9d552df2a3f833dd578a0d16edc18778
